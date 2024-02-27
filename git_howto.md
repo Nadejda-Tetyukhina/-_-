@@ -49,3 +49,4 @@ git log --graph
 ```sh
 git log --oneline --graph
 ```
+Здесь должен произойти конфликт
