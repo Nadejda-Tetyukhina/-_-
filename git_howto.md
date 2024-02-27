@@ -50,3 +50,6 @@ git log --graph
 git log --oneline --graph
 ```
 Чтобы удалить ненужную ветку, используем комманду:
+```sh
+git branch -d <имя_ветки>
+```
