@@ -29,8 +29,6 @@ git checkout <номер_коммита>
 git checkout master
 ```
 
-<<<<<<< HEAD
-=======
 Чтобы посмотреть существующие ветки, используем команду:
 ```sh
 git branch
@@ -39,4 +37,4 @@ git branch
 ```sh
 git branch <имя ветки>
 ```
->>>>>>> branch
+git git
